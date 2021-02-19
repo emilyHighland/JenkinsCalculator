@@ -73,5 +73,4 @@ class Calculator {
         return uniqueID.toString();
     }
 
-
 }
