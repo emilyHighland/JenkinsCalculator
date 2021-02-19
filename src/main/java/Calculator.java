@@ -1,6 +1,3 @@
-import com.sun.xml.internal.bind.v2.model.core.ID;
-
-import java.rmi.server.UID;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.UUID;
@@ -69,8 +66,8 @@ class Calculator {
 
     if you run this function twice with the same String input, it must return 2 unique String IDs
      */
-    String createUniqueID(String n){
-        Set<String> uniqueID = new HashSet<String>();
+    String createUniqueID(@SuppressWarnings("SameParameterValue") String n){
+        Set<String> uniqueID = new HashSet<>();
         uniqueID.add(String.valueOf(UUID.randomUUID()));
         uniqueID.add(n);
         return uniqueID.toString();
