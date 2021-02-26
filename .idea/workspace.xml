@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +41,13 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.All in JenkinsCalculator">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,7 +99,8 @@
       <option name="presentableId" value="Default" />
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
-      <workItem from="1613702312794" duration="6535000" />
+      <workItem from="1613702312794" duration="7091000" />
+      <workItem from="1614371399834" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613708965694</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="completed Calculator class">
+      <created>1613709196766</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613709196766</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +173,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
@@ -173,6 +181,7 @@
     <MESSAGE value="finished fibonacciNumberFinder" />
     <MESSAGE value="finished intToBinaryNumber" />
     <MESSAGE value="finished createUniqueID" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished createUniqueID" />
+    <MESSAGE value="completed Calculator class" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed Calculator class" />
   </component>
 </project>
