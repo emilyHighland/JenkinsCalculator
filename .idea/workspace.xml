@@ -99,7 +99,7 @@
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
       <workItem from="1613702312794" duration="7091000" />
-      <workItem from="1614371399834" duration="557000" />
+      <workItem from="1614371399834" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -164,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614371821145</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="GitHub hook trigger test 3">
+      <created>1614372029335</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614372029335</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,6 +204,7 @@
     <MESSAGE value="completed Calculator class" />
     <MESSAGE value="GitHub hook trigger test" />
     <MESSAGE value="GitHub hook trigger test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="GitHub hook trigger test 2" />
+    <MESSAGE value="GitHub hook trigger test 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="GitHub hook trigger test 3" />
   </component>
 </project>
