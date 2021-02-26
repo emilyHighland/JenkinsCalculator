@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
       <workItem from="1613702312794" duration="7091000" />
-      <workItem from="1614371399834" duration="4151000" />
+      <workItem from="1614371399834" duration="4573000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -201,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614375639344</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added Dockerfile">
+      <created>1614383269766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614383269766</updated>
+    </task>
+    <task id="LOCAL-00016" summary="break the project to test the email notification">
+      <created>1614383526964</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614383526964</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +251,8 @@
     <MESSAGE value="GitHub hook trigger test 5" />
     <MESSAGE value="GitHub hook trigger test 6" />
     <MESSAGE value="GitHub hook trigger test 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="GitHub hook trigger test 7" />
+    <MESSAGE value="added Dockerfile" />
+    <MESSAGE value="break the project to test the email notification" />
+    <option name="LAST_COMMIT_MESSAGE" value="break the project to test the email notification" />
   </component>
 </project>
