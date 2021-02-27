@@ -47,7 +47,14 @@
       <recent name="C:\Users\xris\Desktop\Winter 2020\Cs 340\IntelljProjects\JenkinsCalculator\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in JenkinsCalculator">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JenkinsCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -88,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.All in JenkinsCalculator" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.divideTest" />
@@ -107,7 +115,7 @@
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
       <workItem from="1613702312794" duration="7091000" />
-      <workItem from="1614371399834" duration="9730000" />
+      <workItem from="1614371399834" duration="10000000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -270,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614388688079</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="edit Main.java">
+      <created>1614389301962</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1614389301963</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
