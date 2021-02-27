@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,7 +108,7 @@
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
       <workItem from="1613702312794" duration="7091000" />
-      <workItem from="1614371399834" duration="4573000" />
+      <workItem from="1614371399834" duration="6568000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -213,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614383526964</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="remove break">
+      <created>1614383718757</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614383718757</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +269,7 @@
     <MESSAGE value="GitHub hook trigger test 7" />
     <MESSAGE value="added Dockerfile" />
     <MESSAGE value="break the project to test the email notification" />
-    <option name="LAST_COMMIT_MESSAGE" value="break the project to test the email notification" />
+    <MESSAGE value="remove break" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove break" />
   </component>
 </project>
