@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] Args){
         Calculator calculate = new Calculator();
         Scanner scanner = new Scanner(System.in);
+        scanner.useDelimiter("((#[^\\n]*\\n)|(\\s+))+");
 
         System.out.println("Welcome to the calculator!");
         System.out.println("Enter a command:");
