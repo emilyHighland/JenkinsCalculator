@@ -107,7 +107,7 @@
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
       <workItem from="1613702312794" duration="7091000" />
-      <workItem from="1614371399834" duration="8782000" />
+      <workItem from="1614371399834" duration="9170000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -256,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614387649511</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="edit Main.java">
+      <created>1614388280604</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1614388280604</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,8 +306,8 @@
     <MESSAGE value="remove break" />
     <MESSAGE value="added Main.java text interface for calculator" />
     <MESSAGE value="edit main in Main.java" />
-    <MESSAGE value="edit Main.java" />
     <MESSAGE value="fixed NullPointerException in Main.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed NullPointerException in Main.java" />
+    <MESSAGE value="edit Main.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit Main.java" />
   </component>
 </project>
