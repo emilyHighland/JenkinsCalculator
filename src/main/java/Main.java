@@ -2,17 +2,17 @@
 import java.util.Scanner;
 
 public class Main {
-    void main(String[] Args){
+    public static void main(String[] Args){
         Calculator calculate = new Calculator();
         Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Welcome to the calculator!");
+        System.out.println("Enter a command:");
 
         while(scanner.hasNext()) {
             String command = scanner.next();
             int input1 = Integer.getInteger(scanner.next());
             int input2 = Integer.getInteger(scanner.next());
-
-            System.out.println("Welcome to the calculator!");
-            System.out.println("Enter a command:");
 
             switch (command) {
                 case "add":

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ccca33a-e96e-469b-9880-85f69c3f39fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <updated>1581191690472</updated>
       <workItem from="1613701338564" duration="964000" />
       <workItem from="1613702312794" duration="7091000" />
-      <workItem from="1614371399834" duration="6568000" />
+      <workItem from="1614371399834" duration="6973000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1613703857659</created>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614383718757</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added Main.java text interface for calculator">
+      <created>1614385902972</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614385902972</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +277,7 @@
     <MESSAGE value="added Dockerfile" />
     <MESSAGE value="break the project to test the email notification" />
     <MESSAGE value="remove break" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove break" />
+    <MESSAGE value="added Main.java text interface for calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Main.java text interface for calculator" />
   </component>
 </project>
